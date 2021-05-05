@@ -1,0 +1,5434 @@
+	GroundTruth: Message-Topic	OpenIE:		were about
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		is disease of		is infectious disease of		is disease of		is infectious disease of
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		moved into		moved into		moved into		moved into
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		arrived from		arrived from
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		was composed for		was composed for		was composed for		was composed for
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		is achieved		is achieved		is achieved		is achieved
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		are caused by		Essentially are caused by
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		Still further comprises		further comprises		Still further comprises		comprises		Still further comprises		Still further comprises		comprises		Still further comprises		further comprises		further comprises		further comprises		Still further comprises		comprises		further comprises		comprises		comprises		comprises		further comprises
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was marked with		was marked with
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		are		are		are		are
+1
+	GroundTruth: Cause-Effect	OpenIE:		is recipient of		is source		is source of
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		are enclosed in		are enclosed in		are enclosed in		are enclosed in		are enclosed in		are enclosed in		are enclosed in		are enclosed in		are enclosed in		are enclosed in		are enclosed in		are enclosed in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was put inside of
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was filled with		was filled with
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is		is		is		is
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is part of		is integral part of
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		topped by		topped by		topped by		topped by
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		had left
+2
+	GroundTruth: Other	OpenIE:		have entered into
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		creating		creating
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was released from		was
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		was inside
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was carried into		was		was carried into		was carried into		was carried into
+1
+	GroundTruth: Message-Topic	OpenIE:		aim of is
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		points out		Additionally points out		Additionally points out		points out		points out		Additionally points out
+1
+	GroundTruth: Component-Whole	OpenIE:		receives signal through
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		major theme of is		theme of is
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		were focused on		were focused on		were focused on		were focused on		were focused on		were focused on		were focused on		were focused on		were focused on		were focused on		were focused on		were focused on
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by
+1
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused		caused		caused		caused
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was found in		was found in		was found in		was found in		was found in		was found in		was found in		was found in		was found in		was found in		was found in		was found in
+1
+	GroundTruth: Other	OpenIE:		are narrated through
+2
+	GroundTruth: Product-Producer	OpenIE:		include		include
+1
+	GroundTruth: Other	OpenIE:		was filled with		was filled with		was filled with
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was outputting		was outputting
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		were obtained from
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		had
+1
+	GroundTruth: Content-Container	OpenIE:		was inside		was inside		was inside		was inside		was inside		was inside
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is derived from
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		went from		went away from
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		use		use
+1
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		makes
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		makes		makes		makes
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Message-Topic	OpenIE:		were indicated in		were indicated in
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is going away from		is going away from		is going away from		is going away from
+2
+	GroundTruth: Entity-Origin	OpenIE:		is derived from		is derived from		is derived from		is derived from		is derived from
+1
+	GroundTruth: Product-Producer	OpenIE:		synthesized		synthesized
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		using
+1
+	GroundTruth: Entity-Destination	OpenIE:		was travelling into		was travelling into
+1
+	GroundTruth: Member-Collection	OpenIE:		is in
+1
+	GroundTruth: Other	OpenIE:		were descended from		were		were		were descended from
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		main origin of is		origin of is		main origin of is		origin of is
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are inherited to
+1
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		has
+1
+	GroundTruth: Message-Topic	OpenIE:		was asserted in		was asserted in		was asserted in		was asserted in
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		has		has		has		has
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has		has
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in		was in		was in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is with
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		full of
+1
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in		was in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by		was caused by		was caused by
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is in
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		have		have
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was enclosed in		was enclosed in
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		provided		provided		provided		provided		provided		provided		provided		provided		provided		provided		provided		provided		provided		provided		provided		provided		provided		provided
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by		caused by
+1
+	GroundTruth: Component-Whole	OpenIE:		is with
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is in
+1
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		of
+1
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		runs away from
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		make		use of
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		has
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		has made		has made
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		were related through		were related through
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		door with		open		door with		2nd-floor door with		open		2nd-floor door with		open		open
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		revolves around
+1
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		completes
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has approached		has approached
+1
+	GroundTruth: Product-Producer	OpenIE:		telling		telling
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		has
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was done with		was done with
+2
+	GroundTruth: Product-Producer	OpenIE:		had put up
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by
+1
+	GroundTruth: Message-Topic	OpenIE:		focusing on		focusing on
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		is defined in
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was found in		was found in		was found in		was found in
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		using
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		is member In		is		is		is member In		is		is member of
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		were identified on		However were identified on		were		were
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		written by
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is		is carried to
+2
+	GroundTruth: Message-Topic	OpenIE:		is in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is in
+2
+	GroundTruth: Instrument-Agency	OpenIE:		took
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was found in		was found in
+1
+	GroundTruth: Content-Container	OpenIE:		was filled with
+1
+	GroundTruth: Other	OpenIE:		is		is		is		is
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was stored in		was stored in		was stored in		was stored in		was stored in		was stored in
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		was raised in		was raised in		was raised in		was raised in		was raised in		was raised in
+1
+	GroundTruth: Message-Topic	OpenIE:		have		have
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		have		have
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		making
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		shortens length On		shortens		shortens length On		shortens
+2
+	GroundTruth: Product-Producer	OpenIE:		gathered in		gathered in		gathered in		gathered in		gathered in		gathered in		gathered in		gathered in
+2
+	GroundTruth: Message-Topic	OpenIE:		featured		featured
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		have
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		denote		denote
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		is cause of		is common cause of		is cause of		is common cause of		is most common cause of		is most common cause of
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is tool for		is increasingly important tool for		is important tool for
+2
+	GroundTruth: Other	OpenIE:		is in
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		has		has
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		has		has		has		has		has		has		has		has
+1
+	GroundTruth: Product-Producer	OpenIE:		came up with		came up with		came up with		came up with		came up with		came up with		came up with		came up with		came up with		came up with		came up with		came up with
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		introduction to
+1
+	GroundTruth: Other	OpenIE:		was		was		was		was made with		was made with		was made with		was		was		was		was		was made with		was
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		departed from		departed from		departed from		departed from
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is blown into
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was awarded to		was awarded to
+2
+	GroundTruth: Cause-Effect	OpenIE:		has		has		has		has
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		has hastily assembled		has assembled		has assembled		has hastily assembled
+2
+	GroundTruth: Entity-Origin	OpenIE:		higher temperatures than		temperatures than
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause		Clinically cause
+1
+	GroundTruth: Entity-Destination	OpenIE:		was placed in
+1
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		narrated chronologically		narrated
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		using		using
+1
+	GroundTruth: Other	OpenIE:		started at		started		started		started at		started		started
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		fell into		fell into		Unfortunately fell into		Unfortunately fell into
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		is first event in		is event in
+1
+	GroundTruth: Component-Whole	OpenIE:		is built up		is built up
+1
+	GroundTruth: Cause-Effect	OpenIE:		were caused by		Finally were caused by
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		has
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is in
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was contained in		was contained in
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		escaped		escaped		escaped		escaped		escaped		escaped		escaped		escaped
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		was made by		was made by		Also was made by		was made by		was made by		Also was made by		was made by		was made by		Also was made by		Also was made by		Also was made by		was made by		Also was made by		was made by		Also was made by		was made by		was made by		Also was made by		was made by		was made by		Also was made by		was made by		Also was made by		Also was made by		was made by		was made by		Also was made by		Also was made by		Also was made by		Also was made by		Also was made by		was made by
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		were brought into
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		have
+1
+	GroundTruth: Entity-Destination	OpenIE:		was enclosed in		was enclosed in
+1
+	GroundTruth: Content-Container	OpenIE:		was		was		was		was		was		was		was		was		was		was hidden in		was		was		was		was		was
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was inserted into		was inserted into
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		is among
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by
+1
+	GroundTruth: Content-Container	OpenIE:		was in
+1
+	GroundTruth: Other	OpenIE:		was from		was from		was from		was from
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		nobility of		nobility of		nobility of
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		planted		planted
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by
+1
+	GroundTruth: Message-Topic	OpenIE:		have
+1
+	GroundTruth: Entity-Destination	OpenIE:		are exported to		are exported to
+2
+	GroundTruth: Entity-Origin	OpenIE:		is in
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is derived power from		is derived cause from
+1
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		spent afternoon inside		spent afternoon inside		spent afternoon inside		spent afternoon inside		spent afternoon inside		spent afternoon inside		spent afternoon inside		spent afternoon inside
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is source of		is source of
+1
+	GroundTruth: Product-Producer	OpenIE:		swore
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by		was caused by		was caused by
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was eluded from		was		was		was		was		was		was		was		was		was eluded from
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		has		has		has		has
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was radiating from		was radiating from		was radiating from		was radiating from
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		sensitively departs from		departs from		sensitively departs from		sensitively departs from		sensitively departs from		departs from		departs from		departs from
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		lead to		lead to		lead to		lead to
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		applying to		applying to
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was		was		was		was		was removed from		was removed from		was		was removed from		was removed from		was removed from		was		was removed from
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is in
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause		cause
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has		has
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was generated from		was generated from		was generated from		was generated from		was generated from		was generated from		was generated from		was generated from
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		established		established		established		established
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		hid taximeter with
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		do with		do with		do with		do with
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		have journeyed into
+1
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		details of		details of		details of		details of
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is with
+1
+	GroundTruth: Message-Topic	OpenIE:		has		has		has		has
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		have come into
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		established by
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is with
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		has		has		has
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		leaves
+2
+	GroundTruth: Other	OpenIE:		has		has
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was		was born in		was born in		was		was		was born in		was		was born in		was		was		was		was		was born in		was born in		was born in		was born in		was born in		was		was born in		was born in		was		was		was		was born in
+1
+	GroundTruth: Cause-Effect	OpenIE:		was caused by
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		departed from		departed from
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		governing		governing		governing		governing		governing		governing		governing		governing
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has migrated into
+2
+	GroundTruth: Component-Whole	OpenIE:		is composed of		is composed of
+1
+	GroundTruth: Cause-Effect	OpenIE:		causes
+1
+	GroundTruth: Instrument-Agency	OpenIE:		read beyond		read beyond
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		full of
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		were placed into		were placed into
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		produced
+1
+	GroundTruth: Entity-Destination	OpenIE:		are drained into		are drained into
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		is in
+1
+	GroundTruth: Message-Topic	OpenIE:		thus presents		presents		thus presents		thus presents		presents		thus presents		thus presents		thus presents		presents		presents		presents		presents
+1
+	GroundTruth: Message-Topic	OpenIE:		examining
+2
+	GroundTruth: Other	OpenIE:		is with
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is stored in
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		showing
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		are		are		are		are
+1
+	GroundTruth: Component-Whole	OpenIE:		uses		uses
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		are strings of		as are strings of
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has		has		has		has		has		has		has		has
+1
+	GroundTruth: Content-Container	OpenIE:		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in		were in
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		allowing
+2
+	GroundTruth: Message-Topic	OpenIE:		covering		covering
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		using
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		on
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		percent of was		percent of was
+2
+	GroundTruth: Entity-Origin	OpenIE:		is from		is from
+1
+	GroundTruth: Content-Container	OpenIE:		was in		was in
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was inside
+1
+	GroundTruth: Member-Collection	OpenIE:		is in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was		was
+1
+	GroundTruth: Product-Producer	OpenIE:		has
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is with
+2
+	GroundTruth: Entity-Origin	OpenIE:		produced		produced		produced		produced
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was source of		was source of		was source of		was source of		was source of
+2
+	GroundTruth: Product-Producer	OpenIE:		produce		produce
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was locked in		was locked in
+1
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by		are caused by		are caused by		are caused by		are caused by		are caused by
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		prepared		quickly prepared		prepared		quickly prepared
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		stuck in
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was removed from		was removed from
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused
+1
+	GroundTruth: Instrument-Agency	OpenIE:		approached data with		approached data with
+2
+	GroundTruth: Content-Container	OpenIE:		was		was hidden in
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused		caused
+1
+	GroundTruth: Member-Collection	OpenIE:		group of
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		runs away from
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		flowing into		flowing into		flowing into		flowing into
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		were outlined in		were outlined in		were outlined in		were outlined in
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is in
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused		caused
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		assists
+2
+	GroundTruth: Component-Whole	OpenIE:		is with
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		are used by		are used by
+1
+	GroundTruth: Cause-Effect	OpenIE:		was triggered by		was triggered by
+1
+	GroundTruth: Instrument-Agency	OpenIE:		receives balls through		receives balls through
+2
+	GroundTruth: Member-Collection	OpenIE:		collected in
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		was part of		was part of
+1
+	GroundTruth: Component-Whole	OpenIE:		raises
+2
+	GroundTruth: Product-Producer	OpenIE:		has
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		is with
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was brought into		later was brought into		was		was brought into		later was brought into		was
+1
+	GroundTruth: Message-Topic	OpenIE:		was centered on		was centered on
+2
+	GroundTruth: Entity-Destination	OpenIE:		are spreading rapidly into		are spreading increasingly rapidly into		are spreading increasingly rapidly into		are spreading increasingly rapidly into		are spreading rapidly into		are spreading into		are spreading rapidly into		are spreading into		are spreading into		are spreading rapidly into		are spreading into		are spreading increasingly rapidly into
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused		caused
+1
+	GroundTruth: Message-Topic	OpenIE:		shocking insight into		shocking insight into		insight into		insight into
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is cooked in		is cooked slowly in		is cooked in		is cooked slowly in
+2
+	GroundTruth: Entity-Origin	OpenIE:		is		is		is constructed from		is		is constructed from		is		is		is		is		is constructed from		is		is		is		is		is		is		is		is		is		is		is
+1
+	GroundTruth: Instrument-Agency	OpenIE:		use		use		use		use
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		has
+1
+	GroundTruth: Instrument-Agency	OpenIE:		drank vodka out of		drank vodka out of
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		have made
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in
+2
+	GroundTruth: Message-Topic	OpenIE:		focus of is		focus of is		focus of is		focus of is		focus of is
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is in
+1
+	GroundTruth: Entity-Origin	OpenIE:		was derived from
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by
+1
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Cause-Effect	OpenIE:		was caused by
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		Typically declare		declare
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		comprises		comprises
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		has		has
+1
+	GroundTruth: Product-Producer	OpenIE:		were invented by
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		generate
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was found in		was found in		was found in		was found in
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is composed of		is composed of		is composed of		is composed of		is composed of		is composed of		is composed of		is composed of		is composed of		is composed of		is composed of		is composed of
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		have
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		were obtained from
+2
+	GroundTruth: Product-Producer	OpenIE:		created by		created by		created by		created by
+1
+	GroundTruth: Other	OpenIE:		composed of		composed of		composed of		composed of		composed of		composed of		composed of		composed of		composed of		composed of		composed of		composed of		composed of		composed of		composed of		composed of
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was put inside
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		key persons about		persons about
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		took assignment from		took assignment from
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is		is		is		is
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		is in
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		was frank in		was frank in		was frank in		was frank in		was frank in		was brutally frank in		was brutally frank in		was frank in		was brutally frank in		was brutally frank in		was frank in		was brutally frank in		was brutally frank in		was frank in		was frank in		was brutally frank in		was frank in		was brutally frank in		was brutally frank in		was brutally frank in		was brutally frank in		was frank in		was brutally frank in		was frank in		was brutally frank in		was frank in		was frank in		was brutally frank in
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		is presented in		is presented in
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is in
+1
+	GroundTruth: Product-Producer	OpenIE:		was made by		was		was		was made by		was		was		was		was		was		was		was		was		was		was		was made by		was made by
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		lifts
+2
+	GroundTruth: Entity-Destination	OpenIE:		was		was		was		was		was		was		was		was		was		was		was		was		was		was placed inside		was placed inside		was		was		was		was		was		was		was		was		was
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was		was
+2
+	GroundTruth: Content-Container	OpenIE:		was contained in
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		ran into		ran into
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused
+1
+	GroundTruth: Content-Container	OpenIE:		was in
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		fleeing on		narrowly escaped		narrowly escaped		escaped		escaped
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		are falling into
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		bottle of
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		visited
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		topic for		topic for		topic for		topic for		topic for
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are imported into		are imported into		are imported into		are imported into		are imported into		are imported into		are imported into		are imported into
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		full account of		full account of		account of		account of
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		arose from		arose from		arose from		arose from		arose from		arose from		arose from		arose from
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		has		has		has		has
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		is		is		is		is
+1
+	GroundTruth: Other	OpenIE:		is thrown into
+2
+	GroundTruth: Content-Container	OpenIE:		is with
+2
+	GroundTruth: Instrument-Agency	OpenIE:		is with
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was hidden in
+2
+	GroundTruth: Content-Container	OpenIE:		was locked in
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		directly cause		cause
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		lead to
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was		was sealed in		was
+2
+	GroundTruth: Content-Container	OpenIE:		was in
+1
+	GroundTruth: Cause-Effect	OpenIE:		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from		was derived from
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		departed from
+1
+	GroundTruth: Other	OpenIE:		have
+2
+	GroundTruth: Component-Whole	OpenIE:		is with
+1
+	GroundTruth: Message-Topic	OpenIE:		have		have		have		have
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		was member of
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in
+2
+	GroundTruth: Instrument-Agency	OpenIE:		is		is		is		is tool for		is		is best tool for
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is derived from
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		create		create
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		have		have		have
+2
+	GroundTruth: Product-Producer	OpenIE:		founded by
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		builds		builds
+2
+	GroundTruth: Other	OpenIE:		have		have		have		have		have		have		have		have		have		have		have		have
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		triggered by
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		drafted		drafted
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is exported to
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		descended from		descended from
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is in
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		departed into
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		took
+2
+	GroundTruth: Product-Producer	OpenIE:		built		built
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		also is part of		Now is part of		Now is part of		Now also is part of		also is part of		is part of		is part of		Now also is part of
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was discovered inside		was discovered inside		was discovered inside		was discovered inside		was discovered inside		was discovered inside		was discovered inside		was discovered inside		was discovered inside		was discovered inside
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		put out
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has
+2
+	GroundTruth: Message-Topic	OpenIE:		asserting		asserting		asserting		asserting
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		most dreaded types of are		dreaded types of are
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		uses		box of
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause		cause
+1
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		comprises of		comprises of		comprises of		comprises of
+2
+	GroundTruth: Component-Whole	OpenIE:		is with
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are		are		are		are
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		explain
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was		was placed inside
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was hidden in		was hidden in		was hidden in		was hidden in		was hidden in		was hidden in		was hidden in
+1
+	GroundTruth: Content-Container	OpenIE:		was inside		was inside		was inside		was inside		was inside		was inside		was inside		was inside		was inside		was inside
+1
+	GroundTruth: Member-Collection	OpenIE:		is composed of
+1
+	GroundTruth: Cause-Effect	OpenIE:		majority of		caused
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause		cause
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		highlight		highlight		highlight		highlight		highlight		highlight		highlight		highlight		highlight		highlight		highlight		highlight
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		built		built		built		built		built		built		built		built
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause irritation		cause burns
+1
+	GroundTruth: Entity-Origin	OpenIE:		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from		arrived from
+1
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is divided into		is divided into		is divided into		is divided into
+2
+	GroundTruth: Message-Topic	OpenIE:		described
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		study		study		study		study		study		study		study		study		study		study		study		study		study		study		study		study
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is in
+1
+	GroundTruth: Entity-Destination	OpenIE:		has
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		originated in		is
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		uses
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is in
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was found in		was found in
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is group of		is group of		is group of		is group of		is group of		is group of		is group of		is group of		is group of		is group of		is group of		is group of
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		has
+1
+	GroundTruth: Component-Whole	OpenIE:		designed		ergonomically designed
+2
+	GroundTruth: Entity-Destination	OpenIE:		flew into		flew into		flew into		flew into		flew into		flew into		flew into		flew into
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is in
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		stack of		is visualized		indeed stack of		is visualized
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is put into		Now is put into
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was		was		was		was
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		also contains		contains
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		encloses		encloses
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		have		have		have		have		have		have		have		have
+2
+	GroundTruth: Instrument-Agency	OpenIE:		stirs cauldron with		stirs cauldron with
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		approached		approached
+2
+	GroundTruth: Component-Whole	OpenIE:		are used by
+1
+	GroundTruth: Product-Producer	OpenIE:		build		build
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		has		has		has
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is with
+1
+	GroundTruth: Member-Collection	OpenIE:		is in
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		have		have
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		were in		were in
+2
+	GroundTruth: Component-Whole	OpenIE:		left		left
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		fell into		Accidentally fell into
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		were efficiently transported into		were efficiently transported into		were transported into		were transported into		were efficiently transported into		were efficiently transported into		were transported into		were transported into		were transported into		were efficiently transported into		were transported into		were efficiently transported into
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is made of
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		manually stirs		stirs
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		coming up with		coming up with		coming up with		coming up with
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is in
+1
+	GroundTruth: Message-Topic	OpenIE:		is summary of		is summary of		is summary of		is summary of		is summary of
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		covered		covered		also covered		also covered
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was from		was from		was from		was from		was from		was from
+2
+	GroundTruth: Content-Container	OpenIE:		is in
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was born in
+1
+	GroundTruth: Message-Topic	OpenIE:		have		have		do with
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		established		established
+2
+	GroundTruth: Instrument-Agency	OpenIE:		eats pickle with		eats pickle with
+2
+	GroundTruth: Content-Container	OpenIE:		was inside of		was inside of		was inside of
+2
+	GroundTruth: Component-Whole	OpenIE:		of
+2
+	GroundTruth: Content-Container	OpenIE:		was full of		was full of		was full of		was full of
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was produced from		was produced from		was		was
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is with
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		started school with		started school with		started school with		started school with		started school with		started school with
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		is		is viewed as		is		is now viewed as		is now viewed as		is		is		is		is viewed as		is now viewed as		is		is viewed as		is		is now viewed as		is viewed as		is viewed as		is		is		is		is		is viewed as		is		is now viewed as		is now viewed as
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		Instead measures Sage with		Instead measures Sage with		measures Sage with		measures Sage with		measures Sage with		measures Sage with		Instead measures Sage with		Instead measures Sage with
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		departed from		departed from
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		full of
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused		caused		caused		caused
+1
+	GroundTruth: Product-Producer	OpenIE:		has made
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was		was		was put inside		was
+2
+	GroundTruth: Entity-Destination	OpenIE:		have		have		have		have
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		has		has		has		has		has		has		has		has
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		introduced		introduced		introduced		introduced
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was presented as		was presented as
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		of
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		using		using
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is kept in		is		is		is kept in
+2
+	GroundTruth: Message-Topic	OpenIE:		were revealed through		were revealed through		were revealed through		were revealed through
+2
+	GroundTruth: Other	OpenIE:		caused by		caused by
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		has		has
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		contains		contains
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		includes
+1
+	GroundTruth: Instrument-Agency	OpenIE:		is with
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is in
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		has
+1
+	GroundTruth: Entity-Origin	OpenIE:		is source of		is source of		is source of
+2
+	GroundTruth: Product-Producer	OpenIE:		posted		posted		posted		posted		posted		posted
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		is		is centered around		is		is centered around		is		is
+2
+	GroundTruth: Entity-Destination	OpenIE:		was inserted into		was inserted distally into		was		was		was		was inserted into		was inserted distally into		was
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		assesses		assesses		assesses		assesses
+2
+	GroundTruth: Member-Collection	OpenIE:		growing in
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in		was in		was in		was in
+2
+	GroundTruth: Entity-Destination	OpenIE:		were delivered to		were
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		flare
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		playing at		playing at		playing at		playing at
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by
+1
+	GroundTruth: Other	OpenIE:		produced by		produced by		produced by		produced by		produced by
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was stored in		was stored in
+1
+	GroundTruth: Entity-Destination	OpenIE:		has		has		has		has		has		has		has		has		has		has		has		has
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		provide		provide		provide		provide
+1
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		were		were		were interested through		were		were		were interested through
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was placed inside		was placed inside		was placed inside		was placed inside		was placed inside		was placed inside
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was discovered inside		was discovered inside		was discovered inside		was		was discovered inside		was		was		was discovered inside		was		was discovered inside		was discovered inside		was		was		was discovered inside		was discovered inside		was		was		was		was		was discovered inside		was		was		was discovered inside		was discovered inside		was discovered inside		was		was discovered inside		was		was discovered inside		was		was discovered inside		was
+1
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in		was in		was in		was in		was in		was in		was in		was in
+1
+	GroundTruth: Entity-Origin	OpenIE:		runs to		runs to
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		have
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was in
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		produced from		produced from		produced from
+1
+	GroundTruth: Other	OpenIE:		were		were started from		were		were started from
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		analysis of		powerful analysis of
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is made into		is made into
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is slowly spread to		is spread to		is slowly spread to		is spread to
+2
+	GroundTruth: Other	OpenIE:		Thus was born in		was born in
+2
+	GroundTruth: Entity-Destination	OpenIE:		was poured into
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are landing into		are landing into		are landing into		are landing into
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused		caused
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		regarding
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is derived from
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		peels skin		literally peels skin		peels skin		peels skin		literally peels skin		literally peels skin		literally peels skin		peels skin		literally peels skin		peels skin		literally peels skin		peels skin		literally peels skin		peels skin		peels skin		peels skin		peels skin		literally peels skin		literally peels skin		literally peels skin		literally peels skin		literally peels skin		literally peels skin		peels skin		peels skin		peels skin		literally peels skin		peels skin		literally peels skin		peels skin		peels skin		literally peels skin		literally peels skin		peels skin		literally peels skin		literally peels skin		literally peels skin		peels skin		literally peels skin		peels skin		peels skin		peels skin		literally peels skin		peels skin		peels skin		literally peels skin		literally peels skin		peels skin		literally peels skin		peels skin		peels skin		literally peels skin		peels skin		peels skin
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		is with
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		representing		representing		representing		representing
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is poured into		is
+2
+	GroundTruth: Message-Topic	OpenIE:		alternating		alternating
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		have		have
+1
+	GroundTruth: Entity-Destination	OpenIE:		is poured off into		is poured off into		is poured off into		is poured off into		is poured off into		is poured off into
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		collected from		collected from
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause		cause		cause		cause
+1
+	GroundTruth: Other	OpenIE:		is with
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was taken into
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		have		have		have		have		have		have		have		have
+2
+	GroundTruth: Entity-Destination	OpenIE:		have
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		produced		produced		produced		produced
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		using
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was extracted from		was extracted from		was extracted from		was extracted from
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is best part of		is part of
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused
+1
+	GroundTruth: Instrument-Agency	OpenIE:		is with
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined		examined
+2
+	GroundTruth: Other	OpenIE:		have		have
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was stored in		was stored in
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		important works on		important works on		works on		works on
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		have
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is in
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in		was in		was in
+1
+	GroundTruth: Other	OpenIE:		is in
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was		was		was caused by		was
+1
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by		was caused by		was caused by		was caused by
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		was revealed during		was revealed during
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was pressed from		was pressed from
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause		cause
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		placed in
+2
+	GroundTruth: Other	OpenIE:		governed by
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		were transported into		were transported into
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		gave
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		is caused by		is caused by
+1
+	GroundTruth: Other	OpenIE:		denoting		denoting		denoting		denoting
+2
+	GroundTruth: Message-Topic	OpenIE:		were focused on		were focused on
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was awarded to
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in		was locked in
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		revolved around		revolved around		revolved around		revolved around
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		has
+2
+	GroundTruth: Other	OpenIE:		is		is thrown into		is		is		is		is thrown into
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		protections of		has applied
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		has
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is from		is from		is from		is from		is from		is from		is from		is from
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		produced
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by
+1
+	GroundTruth: Component-Whole	OpenIE:		encloses		encloses
+2
+	GroundTruth: Entity-Origin	OpenIE:		was derived from		was derived from
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		thus caused
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		contained		details on
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		establishing		establishing		establishing		establishing		establishing		establishing
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by		caused by
+1
+	GroundTruth: Other	OpenIE:		were picked by		were picked by		were picked by		were picked by
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		contains		contains
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is source of		is source of		is source of		is source of
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		was organised around
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are invested into		are invested into
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was generated by		was generated by		was generated by		was generated by		was generated by		was generated by		was generated by		was generated by		was generated by		was generated by		was generated by		was generated by
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is added to		is added to
+2
+	GroundTruth: Component-Whole	OpenIE:		of
+2
+	GroundTruth: Entity-Destination	OpenIE:		is posted to
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		outlines
+2
+	GroundTruth: Product-Producer	OpenIE:		reeased		reeased		reeased		reeased
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by
+1
+	GroundTruth: Entity-Destination	OpenIE:		was transported into		was more effectively transported into		was more effectively transported into		was effectively transported into		was effectively transported into		was transported into
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		publish		also publish		publish		also publish
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was locked in		was locked in
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		have		have		have		have
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was enclosed in		was enclosed in		was enclosed in
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is added to
+2
+	GroundTruth: Other	OpenIE:		pertinent to
+2
+	GroundTruth: Message-Topic	OpenIE:		reveal		reveal
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		were in		were in		were in		were in
+2
+	GroundTruth: Other	OpenIE:		is in
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused		caused		caused		caused		caused		caused		caused		caused		caused		caused		caused		caused		caused		caused
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		part of was
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		was written by
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		get away from		get away from
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through		are related through
+2
+	GroundTruth: Message-Topic	OpenIE:		deal with		deal with
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		were notified by
+2
+	GroundTruth: Other	OpenIE:		was created by		was created by		was created by		was created by		was created by		was created by		was created by		was created by		was created by		was created by		was created by		was created by		was created by		was created by
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is in
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		is generated by		is generated by
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		performed by		performed by		performed by		performed by
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was gained from		was gained from
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		use		use
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		using
+2
+	GroundTruth: Entity-Destination	OpenIE:		are dropped onto		are
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was inside
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was		was		was poured into		was		was		was poured into		was		was		was poured into		was poured into		was		was
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was donated to
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		co-authored by
+2
+	GroundTruth: Other	OpenIE:		float inside
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is in		carafe in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		are denoted with		are conventionally denoted with
+2
+	GroundTruth: Product-Producer	OpenIE:		among
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		makes
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		delaying		delaying		delaying		delaying
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		also build		build
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		have
+2
+	GroundTruth: Content-Container	OpenIE:		was stored in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was		was		was hidden in		was
+1
+	GroundTruth: Product-Producer	OpenIE:		said in		said in		said in		said in
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		full of
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is with
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		was under
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was		was		was		was		was pressed from		was		was		was		was		was
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		were put into		were automatically put into
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is		is made from
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		stuffed down hair with		stuffed wool with		stuffed hair with		stuffed down wool with
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		receives output through
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was manoeuvred from		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was manoeuvred from		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was		was
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has
+2
+	GroundTruth: Cause-Effect	OpenIE:		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from		was gained from
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused		caused		caused		caused		caused		caused		caused		caused
+2
+	GroundTruth: Message-Topic	OpenIE:		has		has
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		manufacture
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		has established		has established		has established		has established		has established		has established		has established		has established
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was hidden in		was hidden in
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was sealed in		was sealed in
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was developed from		was developed from		was developed from		was developed from		was developed from
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		is with
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is derived from		is derived from		is derived from		is derived from		is derived from		is derived from		is derived from		is derived from
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was contained in		was contained in
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was hidden in		was hidden in		was hidden in
+2
+	GroundTruth: Message-Topic	OpenIE:		narrate
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		turned into		turned car into		turned into		turned car into
+2
+	GroundTruth: Message-Topic	OpenIE:		was about		was about
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		used for
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was full of
+2
+	GroundTruth: Content-Container	OpenIE:		was in
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by		are caused by		are caused by
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		was set out in
+2
+	GroundTruth: Entity-Destination	OpenIE:		are moved into		are moved into		are moved into		are moved into
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is with
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		have		have
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		celebrating		celebrating		celebrating		celebrating		celebrating		celebrating		celebrating
+2
+	GroundTruth: Cause-Effect	OpenIE:		was		was generated via
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was inside
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		were in
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is in
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		encloses		encloses		encloses		encloses		encloses		encloses
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		originating from		originating from		is		is
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		are made by
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is shipped to		is already shipped to
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		donate
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause		cause
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		had left
+2
+	GroundTruth: Other	OpenIE:		returned		returned		returned		returned
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		is among		is among		is among		is among
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		has		has		has		has
+1
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was truly part of		was best part of		was truly part of		was truly best part of		was part of		was part of		was best part of		was truly best part of
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		has		has
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		has constructed		has constructed		has constructed		has constructed		has constructed		has constructed
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused		caused		caused		caused
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		went away from		went away from
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was governed by		was governed by		was governed by		was governed by
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		are		are		are
+2
+	GroundTruth: Other	OpenIE:		has landed into		has landed into		has landed into		has landed into
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		loaded with		loaded with
+2
+	GroundTruth: Instrument-Agency	OpenIE:		successfully treated mice with		treated mice with		treated mice with		successfully treated mice with
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		established		established
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is source of		is source of		is source of		is source of
+2
+	GroundTruth: Instrument-Agency	OpenIE:		using
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		has
+1
+	GroundTruth: Instrument-Agency	OpenIE:		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of		is favourite of
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:		Friends of
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		causes
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is source of		is
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are		are
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		lifted from
+2
+	GroundTruth: Content-Container	OpenIE:		put inside		put inside
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was full of		was full of
+2
+	GroundTruth: Message-Topic	OpenIE:		is investigated in		is		is
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has		has		has		has
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by		are caused by		are caused by
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		so involves reader in		so involves reader in		involves reader in		so involves reader in		involves reader in		so involves reader in		involves reader in		involves reader in
+2
+	GroundTruth: Cause-Effect	OpenIE:		is generated by		is generated by		is generated by		is generated by
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has		has		has		has
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		verifying particulars from		is issued from		verifying particulars from		is issued from		verifying particulars from		verifying particulars from
+2
+	GroundTruth: Entity-Destination	OpenIE:		is travelling into		is travelling into
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		moves		moves
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		is manufacture of		is manufacture of
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		is generated by		is generated by		is generated by		is generated by		is generated by		is generated by		is generated by		is generated by		is generated by		is generated by		is generated by		is generated by
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		originates from		originates from		originates from		originates from
+2
+	GroundTruth: Message-Topic	OpenIE:		has		has		has		has		has		has		has		has
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was		was enclosed in
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		wrote
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are shipped to		are shipped to
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in
+2
+	GroundTruth: Other	OpenIE:		is in
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		Rather killed victim with		Rather killed victim with		Rather killed victim with		killed victim with		Rather killed victim with		Rather killed victim with		killed victim with		killed victim with		killed victim with		killed victim with		Rather killed victim with		Rather killed victim with		Rather killed victim with		killed victim with		killed victim with		Rather killed victim with		killed victim with		killed victim with		Rather killed victim with		killed victim with
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		build		build		build		build		build		build		build		build
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		is with
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was full of		was full of		was full of		was full of
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		looking at		looking at		looking at		looking at		looking at		looking at		looking at		looking at		looking at		looking at
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		have		have
+2
+	GroundTruth: Content-Container	OpenIE:		full of
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		were blown into		were blown into		were blown into		were blown into
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		later dug		dug		dug		later dug
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		comprises		also comprises		also comprises		also comprises		also comprises		also comprises		comprises		comprises		comprises		comprises		comprises		comprises		also comprises		also comprises		comprises		also comprises
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has		has
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		spreading into
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by
+1
+	GroundTruth: Content-Container	OpenIE:		was		was locked in
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in		was in		was in		was in		was in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		is related in
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was derived from
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		was bestowed to
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		touched training card with
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is result of		is result of		is result of		is result of		is result of		is result of
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is with
+1
+	GroundTruth: Content-Container	OpenIE:		is with
+1
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was inside
+2
+	GroundTruth: Other	OpenIE:		was		was		was		was		was		was		was departure from		was		was		was		was departure from		was departure from		was radical departure from		was		was		was		was		was departure from		was		was radical departure from		was		was		was		was		was		was		was		was		was radical departure from		was radical departure from		was		was
+2
+	GroundTruth: Other	OpenIE:		was built inside
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed		displayed
+2
+	GroundTruth: Content-Container	OpenIE:		was inside
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was hidden in
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was locked in		Accidentally was locked in		was locked in		Accidentally was locked in
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		is caused by		is caused by		is caused by		is caused by		is caused by		is caused by		is caused by		is caused by		is caused by
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		promotes efficiency through		promotes efficiency through		promotes efficiency through		promotes efficiency through		promotes efficiency through
+2
+	GroundTruth: Content-Container	OpenIE:		is with
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		point of		point of
+2
+	GroundTruth: Product-Producer	OpenIE:		assembly of
+2
+	GroundTruth: Entity-Destination	OpenIE:		were blown into
+2
+	GroundTruth: Content-Container	OpenIE:		was sealed in		was sealed in
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused
+1
+	GroundTruth: Content-Container	OpenIE:		was in		was in
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are imported illegally into		are imported into		are imported into		are imported illegally into
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by		was caused by
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		is with
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by		was caused by		was caused by		was caused by		was caused by		was caused by		was caused by		was caused by
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused
+1
+	GroundTruth: Entity-Destination	OpenIE:		have		have		have		have
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		ran away from
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		examining		examining
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		issued by
+2
+	GroundTruth: Other	OpenIE:		has
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		were described in		were described in
+2
+	GroundTruth: Entity-Destination	OpenIE:		was given to
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		demonstrates
+2
+	GroundTruth: Entity-Destination	OpenIE:		were		were		were		were		were brought into		were brought into
+2
+	GroundTruth: Message-Topic	OpenIE:		Most of been
+2
+	GroundTruth: Entity-Origin	OpenIE:		was evolved from		was evolved from		was evolved from
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		are		are core of		included in		are core of		are		are		are
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was inside
+1
+	GroundTruth: Content-Container	OpenIE:		was actually placed inside		was placed inside
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		are isolated from		are isolated from
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		were dragged into		were dragged into		were dragged into		were dragged into
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		reading		reading
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		investigating		investigating		investigating		investigating		investigating		investigating		investigating		investigating
+2
+	GroundTruth: Product-Producer	OpenIE:		made by		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		made by		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		were		made by		were		were		made by		were
+1
+	GroundTruth: Entity-Destination	OpenIE:		poured into		poured into
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		lump on
+2
+	GroundTruth: Product-Producer	OpenIE:		finished		finished		just finished		just finished
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in		was in
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by		are caused by		are caused by		are caused by		are caused by		are caused by		are caused by		are caused by		are caused by
+1
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		was summary of		was summary of
+2
+	GroundTruth: Product-Producer	OpenIE:		are caused by		are caused by
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was enclosed in
+2
+	GroundTruth: Content-Container	OpenIE:		was		was		was placed inside		was
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has		has
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		sinking into		sinking into
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is rooted in		is rooted in
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		filled with		filled with		filled with		filled with
+2
+	GroundTruth: Product-Producer	OpenIE:		issued		issued
+2
+	GroundTruth: Component-Whole	OpenIE:		contains		contains		contains
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		arrives
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		causes
+1
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		co-founded by		co-founded by
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was pressed from		was pressed from		was pressed from		was		was		was		was pressed from		was
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		grown in		grown in		grown in		grown in
+2
+	GroundTruth: Other	OpenIE:		did		did		did		did
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by		caused by
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was in		was in
+1
+	GroundTruth: Message-Topic	OpenIE:		are defined in		are defined in
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		regulating		regulating
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		are divided into		are divided into
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:		bought		Thus bought		Thus bought		bought
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		were found in		were found in		were found in		were found in		were found in		were found in		were found in		were found in		were found in		were found in		were found in		were found in
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		use		use
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+2
+	GroundTruth: Product-Producer	OpenIE:		make		make
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		is with
+1
+	GroundTruth: Component-Whole	OpenIE:		is in
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is derived from		is derived from		is derived from		is derived from		is derived from		is derived from		is derived from		is derived from
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused		caused
+1
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		lit
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		have enzyme production in
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:		has		has
+1
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is with
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		was caused by		was caused by		was caused by		was caused by
+1
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		cause
+1
+	GroundTruth: Other	OpenIE:		was leaked in
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		is sent to
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was hidden in		was hidden in		was hidden in		was hidden in
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		caused by
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is illegally imported product of		is product of		is imported product of
+2
+	GroundTruth: Cause-Effect	OpenIE:		are caused by		are caused by
+1
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		is explored through		is also explored through		is explored through		is also explored through		is also explored through		is also explored through		is explored through		is explored through
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		was generated from		was		was generated from
+2
+	GroundTruth: Cause-Effect	OpenIE:		was great production by		was production by		was great production by		was production by
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is in
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		is with
+2
+	GroundTruth: Content-Container	OpenIE:		left in		left alone in		left in		left alone in
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is		is		is derived from
+2
+	GroundTruth: Other	OpenIE:		Instead was governed by		was governed by		Instead was governed by		was governed by
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		significant contribution to		significant contribution to		significant contribution to		contribution to		significant contribution to		contribution to		contribution to		contribution to
+2
+	GroundTruth: Other	OpenIE:		is with
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are dropped into
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		were documented through
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:		laid by		laid by
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		part of		feel		part of		feel
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		is distilled from		is distilled from
+2
+	GroundTruth: Product-Producer	OpenIE:		shot		shot
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		is in		is in
+2
+	GroundTruth: Entity-Destination	OpenIE:		has		has
+1
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		leaves from
+2
+	GroundTruth: Entity-Origin	OpenIE:		was		was pressed from		was
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Content-Container	OpenIE:		was found in		was found in
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:		have		have		have		have
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		drank water out of
+2
+	GroundTruth: Message-Topic	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		has
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Cause-Effect	OpenIE:		leads to
+2
+	GroundTruth: Cause-Effect	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
+	GroundTruth: Other	OpenIE:		was		was		was		was pressed from
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:		are		are		are		are
+2
+	GroundTruth: Other	OpenIE:
+2
+	GroundTruth: Member-Collection	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:
+2
+	GroundTruth: Entity-Origin	OpenIE:		left from		left from
+2
+	GroundTruth: Instrument-Agency	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Component-Whole	OpenIE:
+2
+	GroundTruth: Product-Producer	OpenIE:
+2
+	GroundTruth: Entity-Destination	OpenIE:
+2
